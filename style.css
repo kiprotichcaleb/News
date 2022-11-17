@@ -1,0 +1,18 @@
+nav{
+display:flex ;
+justify-content: space-between;
+align-items: center;
+padding: 15px;
+padding-top:20px;}
+
+aside{background-color: black;
+    color: #ffffff;
+    border: 50px;
+    margin-left: 80%;
+    padding: 20px;
+    padding-left: 1%;
+    text-align: left;
+    font: 100;}
+aside h1{
+    color:hsl(35, 77%, 62%)
+}
